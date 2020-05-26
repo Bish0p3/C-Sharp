@@ -1,0 +1,9 @@
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\bin\Debug\Kosci.exe.config
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\bin\Debug\Kosci.exe
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\bin\Debug\Kosci.pdb
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\obj\Debug\Kosci.csprojAssemblyReference.cache
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\obj\Debug\Kosci.Form1.resources
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\obj\Debug\Kosci.Properties.Resources.resources
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\obj\Debug\Kosci.csproj.GenerateResource.cache
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\obj\Debug\Kosci.exe
+C:\Users\Borys\Dysk Google\Programowanie III_ Zaawansowane metody programowania\Projekt_Forms\Kosci\Kosci\obj\Debug\Kosci.pdb
